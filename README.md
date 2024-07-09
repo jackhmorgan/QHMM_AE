@@ -8,6 +8,6 @@ This repository offers the TrainableQHMM class, which is a tool that crates a QH
 
 References:
 
-Monras, A., Beige, A., & Wiesner, K. (2010). Hidden quantum Markov models and non-adaptive read-out of many-body states arXiv preprint arXiv:1002.2337.
-Egger, D. J., Gutiérrez, R. G., Mestre, J. C., & Woerner, S. (2020). Credit risk analysis using quantum computers. IEEE Transactions on Computers, 70(12), 2136-2145.
-Markov, V., Rastunkov, V., Deshmukh, A., Fry, D., & Stefanski, C. (2022). Implementation and learning of quantum hidden markov models. arXiv preprint arXiv:2212.03796.
+1. Monras, A., Beige, A., & Wiesner, K. (2010). Hidden quantum Markov models and non-adaptive read-out of many-body states arXiv preprint arXiv:1002.2337.
+2. Egger, D. J., Gutiérrez, R. G., Mestre, J. C., & Woerner, S. (2020). Credit risk analysis using quantum computers. IEEE Transactions on Computers, 70(12), 2136-2145.
+3. Markov, V., Rastunkov, V., Deshmukh, A., Fry, D., & Stefanski, C. (2022). Implementation and learning of quantum hidden markov models. arXiv preprint arXiv:2212.03796.
