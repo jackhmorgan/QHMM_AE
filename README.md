@@ -1,4 +1,5 @@
-Hidden Markov Models (HMM) are a statistical tool used to predict the likelihood of a sequence of outcomes that depend on an unkown hidden state. We are interested in estimating the Value at Risk (VaR) of a portfolio where the growth of said portfolio follows a HMM.
+## QHMM_AE
+This repository holds the code for a project that looks to benefit from two different areas of potential quantum advantage in finance. Hidden Markov Models (HMM) are a statistical tool used to predict the likelihood of a sequence of outcomes that depend on an unkown hidden state. We are interested in estimating the Value at Risk (VaR) of a portfolio where the growth of said portfolio follows a HMM. The code in QHMM_AE provides a framework to train a circuit ansatz using qiskit, and easily construct a Quantum Amplitude Estimation circuit to predict the VaR of the trained distribution.
 
 Quantum computers offer two distinct advantages over classical algorithms for this application. Reference [1] shows that a Quantum Hidden Markov Model (QHMM) can use fewer model parameters than a HMM to capture equally complex behavior. Once the QHMM model is trained, a quantum computer can calculate the VaR with a quadratic speedup over classical Monte Carlo methods via Quantum Amplitude Estimation (QAE) [2].
 
